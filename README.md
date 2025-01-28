@@ -1,1 +1,2 @@
-dự kiến 8/3 sẽ up web mới và sửa lỗi lại web cũ
+8/3 sẽ bắt đầu up
+đã hoàng thành kiến trúc
