@@ -1,2 +1,1 @@
-8/3 sẽ bắt đầu up
-đã hoàng thành kiến trúc
+chờ ngày bắt đầu 😛
